@@ -6,7 +6,3 @@
 
 - [ES6 Basic](./0x01-ES6_Basic)
 - [ES6 Promise](./0x01-ES6_promise)
-- [ES6 Classes](./0x01-ES6_classes)
-- [ES6 Data Manipulation](./0x01-ES6_data_manipulation)
-- [ES6 TypeScript](./0x04-TypeScript)
-- 
