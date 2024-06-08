@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../0x00-ES6_basic"
+		},
+		{
+			"path": "../0x01-ES6_promise"
+		},
+		{
+			"path": "../0x02-ES6_classes"
+		},
+		{
+			"path": "../0x03-ES6_data_manipulation"
+		},
+		{
+			"path": "../0x04-TypeScript"
+		},
+		{
+			"path": "../0x05-Node_JS_basic"
+		}
+	]
+}
